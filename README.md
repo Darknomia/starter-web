@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-simple website for git demo
+simple website for git demo site
 
 ## Purpose
 
