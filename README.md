@@ -9,5 +9,6 @@ Sample website with plenty of files for demos
 
 ## how to contribute
 
+please fork for testing
 
 ## Deployment
